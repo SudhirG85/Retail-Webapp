@@ -7,4 +7,3 @@ applications:
   path: target/retailone.war
   services:
     - "mysql-dev"
-
