@@ -6,4 +6,4 @@ applications:
   host: retailapp-dev123
   path: target/retailone.war
   services:
-    - "mysql-dev"
+    - "mysql-dev "
