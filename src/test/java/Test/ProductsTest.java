@@ -48,7 +48,7 @@ public void setUp() throws Exception {
 	public void testresultsForCamera() {
 		ArrayList<String> camera = new ArrayList<String>();
 		Products objProdcusts = new Products();
-		camera = objProdcusts.results("camerda");		
+		camera = objProdcusts.results("camera");		
 		assertEquals(cam, camera);		
 	}
 	
